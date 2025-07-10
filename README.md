@@ -25,28 +25,6 @@ The goal is to deliver data-driven, actionable insights that enhance **quality c
 
 ---
 
-## 📂 Project Structure
-
-bdm-hydraulic-efficiency-project/
-│
-├── data/
-│ ├── orders.csv
-│ └── monthly_financials.csv
-│
-├── analysis/
-│ ├── bdm_analysis_code.ipynb
-│ └── bdm_analysis_code.py
-│
-├── report/
-│ ├── IITM_BDM_Final_Report.pdf
-│ └── IITM_BDM_Midterm.pdf
-| |__ IITM_BDM_Proposal.pdf 
-│
-├── README.md
-
-
----
-
 ## 📊 Datasets Used
 
 - **`orders.csv`**: Order-level info on production, cost, delays, and quality
