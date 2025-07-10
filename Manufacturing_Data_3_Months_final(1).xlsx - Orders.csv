@@ -1,0 +1,59 @@
+Order ID,Customer Name,Manifold Type,Quantity,Order Date,Production Days,Scheduled Delivery Date,Actual Delivery Date,Delay (Days),Cost Per Manifold (INR),External Coating Cost (INR),Total Order Cost (INR),Rework Required,Rejected,Rejection Reason,Resolution Given
+1,Balaji Enterprises,Six Station,1,1/1/2025,10,1/11/2025,1/12/2025,1,5476,876,6352,No,Yes,None,None
+2,Silverline Fabrication Works,Three Station,4,1/1/2025,10,1/11/2025,1/11/2025,0,2968,475,13772,No,No,None,None
+3,Rajeshwari Fabricators,Four Station,5,1/2/2025,6,1/8/2025,1/8/2025,0,2681,429,15550,No,No,None,None
+4,GreenTech Machinery,Four Station,1,1/3/2025,8,1/11/2025,1/11/2025,0,3664,586,4250,No,No,None,None
+5,Bright Components,Four Station,4,1/4/2025,8,1/12/2025,1/14/2025,2,3989,638,18508,No,No,None,None
+6,Rajeshwari Fabricators,Six Station,1,1/4/2025,7,1/11/2025,1/11/2025,0,3971,635,4606,No,No,None,None
+7,Silverline Fabrication Works,Two Station,5,1/5/2025,5,1/10/2025,1/10/2025,0,2875,460,16675,No,No,None,None
+8,Kaveri Auto Components,Five Station,3,1/8/2025,4,1/12/2025,1/12/2025,0,5541,887,19284,No,Yes,Finishing issue,None
+9,Senthil Engineering Works,Four Station,5,1/8/2025,10,1/18/2025,1/18/2025,0,3642,583,21125,No,No,None,None
+10,Annapurna Engineering Works,Six Station,3,1/9/2025,9,1/18/2025,1/18/2025,0,5696,911,19821,No,No,None,None
+11,Eagle Manufacturing Ltd.,Two Station,5,1/14/2025,3,1/17/2025,1/19/2025,2,2240,358,12990,No,No,None,None
+12,Johnson & Co,Six Station,2,1/18/2025,2,1/20/2025,1/20/2025,0,2674,428,6204,No,No,None,None
+13,Maheshwari Engineering,Single Station,1,1/19/2025,3,1/22/2025,1/22/2025,0,3552,568,4120,No,No,None,None
+14,Bharathi Works,Three Station,1,1/21/2025,4,1/25/2025,1/25/2025,0,2008,321,2329,No,No,None,None
+15,Rajeshwari Fabricators,Five Station,2,1/22/2025,4,1/26/2025,1/26/2025,0,3599,576,8350,No,No,None,None
+16,Sri Lakshmi Industries,Six Station,3,1/24/2025,8,2/1/2025,2/1/2025,0,3086,494,10740,No,No,None,None
+17,Vinayaka Industrial Solutions,Six Station,1,1/24/2025,3,1/27/2025,1/27/2025,0,5795,927,6722,No,No,None,None
+18,Phoenix Precision Engineering,Five Station,2,1/24/2025,8,2/1/2025,2/1/2025,0,5211,834,12090,No,No,None,None
+19,Pioneer Metal Works,Three Station,1,2/1/2025,8,2/9/2025,2/9/2025,0,5215,834,6049,No,No,None,None
+20,NextGen Auto Parts,Single Station,4,2/1/2025,9,2/10/2025,2/10/2025,0,3863,618,17924,No,No,None,None
+21,Johnson & Co,Two Station,3,2/3/2025,10,2/13/2025,2/13/2025,0,3168,507,11025,Yes,No,None,Verbal Compromise
+22,Super Alloy Works,Six Station,4,2/7/2025,6,2/13/2025,2/13/2025,0,3732,597,17316,No,No,None,None
+23,Rajeshwari Fabricators,Three Station,3,2/7/2025,10,2/17/2025,2/17/2025,0,4853,776,16887,No,No,None,None
+24,Vignesh Manufacturing,Two Station,2,2/8/2025,2,2/10/2025,2/12/2025,2,5921,947,13736,No,No,None,None
+25,NextGen Auto Parts,Two Station,3,2/8/2025,3,2/11/2025,2/11/2025,0,4992,799,17373,Yes,No,None,Small Discount
+26,Eastern Manufacturing,Two Station,3,2/9/2025,10,2/19/2025,2/19/2025,0,5208,833,18123,No,No,None,None
+27,Nova Industrial Supplies,Single Station,2,2/14/2025,6,2/20/2025,2/20/2025,0,4276,684,9920,No,No,None,None
+28,Bright Components,Single Station,3,2/15/2025,7,2/22/2025,2/22/2025,0,4711,754,16395,No,No,None,None
+29,NextGen Auto Parts,Two Station,1,2/17/2025,3,2/20/2025,2/20/2025,0,4942,791,5733,No,No,None,None
+30,Senthil Engineering Works,Four Station,5,2/18/2025,6,2/24/2025,2/24/2025,0,3993,639,23160,No,No,None,None
+31,Sharma Engineering Works,Five Station,2,2/18/2025,8,2/26/2025,2/26/2025,0,2634,421,6110,No,No,None,None
+32,Kaveri Auto Components,Single Station,5,2/19/2025,4,2/23/2025,2/23/2025,0,2777,444,16105,No,No,None,None
+33,Sharma Engineering Works,Four Station,2,2/20/2025,9,3/1/2025,3/1/2025,0,3215,514,7458,No,No,None,None
+34,NextGen Auto Parts,Four Station,2,2/21/2025,2,2/23/2025,2/23/2025,0,2891,463,6708,No,No,None,None
+35,Shakti Machining Solutions,Six Station,4,2/23/2025,6,3/1/2025,3/2/2025,1,5967,955,27688,No,Yes,Dimensions Issue,None
+36,Bright Components,Five Station,4,2/23/2025,10,3/5/2025,3/5/2025,0,2239,358,10388,No,No,None,None
+37,Surya Precision Tools,Two Station,3,2/25/2025,4,3/1/2025,3/1/2025,0,4372,700,15216,No,No,None,None
+38,TechnoFab India,Six Station,5,2/26/2025,10,3/8/2025,3/8/2025,0,5013,802,29075,Yes,No,None,Verbal Compromise
+39,Titanium Machining Co.,Six Station,2,2/28/2025,3,3/3/2025,3/3/2025,0,4220,675,9790,No,No,None,None
+40,Ganesh Tools and Components,Four Station,3,3/3/2025,6,3/9/2025,3/9/2025,0,2249,360,7827,No,No,None,None
+41,Johnson & Co,Four Station,1,3/4/2025,10,3/14/2025,3/14/2025,0,5063,810,5873,No,No,None,None
+42,Shakti Machining Solutions,Four Station,2,3/4/2025,5,3/9/2025,3/11/2025,2,3284,525,7618,No,No,None,None
+43,NextGen Auto Parts,Two Station,1,3/5/2025,4,3/9/2025,3/9/2025,0,2234,357,2591,No,No,None,None
+44,Annapurna Engineering Works,Two Station,3,3/6/2025,7,3/13/2025,3/14/2025,1,2205,353,7674,No,No,None,None
+45,Pioneer Metal Works,Six Station,4,3/7/2025,4,3/11/2025,3/11/2025,0,4392,703,20380,No,No,None,None
+46,Ramesh Machining Services,Six Station,3,3/9/2025,10,3/19/2025,3/19/2025,0,3952,632,13752,No,No,None,None
+47,Nova Industrial Supplies,Single Station,1,3/9/2025,10,3/19/2025,3/19/2025,0,4059,649,4708,No,No,None,None
+48,Eagle Manufacturing Ltd.,Single Station,2,3/11/2025,2,3/13/2025,3/14/2025,1,5765,922,13374,No,No,None,None
+49,Sharma Engineering Works,Four Station,5,3/11/2025,7,3/18/2025,3/18/2025,0,5492,879,31855,No,No,None,None
+50,Surya Precision Tools,Two Station,3,3/12/2025,9,3/21/2025,3/21/2025,0,4175,668,14529,No,No,None,None
+51,Titanium Machining Co.,Two Station,2,3/12/2025,2,3/14/2025,3/14/2025,0,2644,423,6134,No,No,None,None
+52,Sri Lakshmi Industries,Six Station,4,3/13/2025,3,3/16/2025,3/16/2025,0,2232,357,10356,No,No,None,None
+53,Sharma Engineering Works,Five Station,4,3/14/2025,7,3/21/2025,3/21/2025,0,5935,950,27540,No,Yes,Dimensions Issue,None
+54,TechnoFab India,Four Station,4,3/20/2025,6,3/26/2025,3/26/2025,0,4080,653,18932,No,No,None,None
+55,Chennai Machining,Single Station,2,3/23/2025,5,3/28/2025,3/30/2025,2,2328,372,5400,No,No,None,None
+56,Rajeshwari Fabricators,Five Station,3,3/25/2025,2,3/27/2025,3/27/2025,0,5487,878,19095,Yes,No,None,Rework
+57,ProTech Engineering Solutions,Two Station,2,3/26/2025,5,3/31/2025,3/31/2025,0,2761,442,6406,No,No,None,None
+58,Silverline Fabrication Works,Single Station,2,3/28/2025,3,3/31/2025,3/31/2025,0,2280,365,5290,No,No,None,None
